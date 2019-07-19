@@ -8,6 +8,7 @@ pylint = "*"
 
 [packages]
 py2neo = "*"
+pyyaml = "*"
 
 [requires]
 python_version = "3.7"

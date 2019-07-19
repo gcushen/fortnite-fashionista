@@ -17,7 +17,7 @@ Star this repository on GitHub and follow [@GeorgeCushen](https://twitter.com/ge
 
 1. Clone or download Fortnite Fashionista
 2. Open Terminal and navigate to the Fortnite Fashionista folder
-3. Add your Neo4j graph database credentials in `credentials.yaml`
+3. Add your Neo4j graph database credentials in `credentials.yml`
 4. `pipenv install`
 5. `pipenv shell`
 6. `python create_graph.py`
